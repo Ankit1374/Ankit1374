@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankit1374
+- 👋 Hi, I’m Ankit Singh
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React.JS and I'm Familiar with various front end Technologies
 - 💞️ I’m looking to collaborate with a organisation which can provide me a professional working environment to help me grow in my career.
